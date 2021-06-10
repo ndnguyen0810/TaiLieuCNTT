@@ -1,0 +1,98 @@
+D:\Lab08\lab08\lab08\bin\Debug\lab08.exe.config
+D:\Lab08\lab08\lab08\obj\Debug\lab08.csprojResolveAssemblyReference.cache
+D:\Lab08\lab08\lab08\obj\Debug\lab08.Form1.resources
+D:\Lab08\lab08\lab08\obj\Debug\lab08.Properties.Resources.resources
+D:\Lab08\lab08\lab08\obj\Debug\lab08.csproj.GenerateResource.Cache
+D:\Lab08\lab08\lab08\bin\Debug\lab08.exe
+D:\Lab08\lab08\lab08\bin\Debug\lab08.pdb
+D:\Lab08\lab08\lab08\obj\Debug\lab08.exe
+D:\Lab08\lab08\lab08\obj\Debug\lab08.pdb
+G:\Lab08\lab08\lab08\bin\Debug\lab08.exe.config
+G:\Lab08\lab08\lab08\bin\Debug\lab08.exe
+G:\Lab08\lab08\lab08\bin\Debug\lab08.pdb
+G:\Lab08\lab08\lab08\obj\Debug\lab08.csprojAssemblyReference.cache
+G:\Lab08\lab08\lab08\obj\Debug\lab08.Properties.Resources.resources
+G:\Lab08\lab08\lab08\obj\Debug\lab08.csproj.GenerateResource.cache
+G:\Lab08\lab08\lab08\obj\Debug\lab08.csproj.CoreCompileInputs.cache
+G:\Lab08\lab08\lab08\obj\Debug\lab08.exe
+G:\Lab08\lab08\lab08\obj\Debug\lab08.pdb
+G:\Lab08\lab08\lab08\obj\Debug\lab08.frmNhanVien.resources
+E:\Lab08\lab08\lab08\bin\Debug\lab08.exe.config
+E:\Lab08\lab08\lab08\obj\Debug\lab08.exe
+E:\Lab08\lab08\lab08\obj\Debug\lab08.pdb
+E:\Lab08\lab08\lab08\bin\Debug\lab08.exe
+E:\Lab08\lab08\lab08\bin\Debug\lab08.pdb
+E:\Lab08\lab08\lab08\obj\Debug\lab08.csprojResolveAssemblyReference.cache
+E:\Lab08\lab08\lab08\obj\Debug\lab08.frmNhanVien.resources
+E:\Lab08\lab08\lab08\obj\Debug\lab08.Properties.Resources.resources
+E:\Lab08\lab08\lab08\obj\Debug\lab08.csproj.GenerateResource.Cache
+E:\Lab08\lab08\lab08\obj\Debug\lab08.frmNewNV.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\lab08.exe.config
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\lab08.exe
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\lab08.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.frmNewNV.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.frmNhanVien.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.exe
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.pdb
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\RdlCompile.cache
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\RdlCompile.compiled
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.rp.resources
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\EnvDTE.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\OneDrive\Máy tính\Lab08\lab08\lab08\obj\Debug\lab08.csproj.CopyComplete

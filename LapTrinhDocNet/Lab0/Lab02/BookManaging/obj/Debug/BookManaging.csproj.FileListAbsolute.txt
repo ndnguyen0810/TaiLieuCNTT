@@ -1,0 +1,13 @@
+D:\BookManaging\BookManaging\bin\Debug\BookManaging.exe.config
+D:\BookManaging\BookManaging\bin\Debug\BookManaging.exe
+D:\BookManaging\BookManaging\bin\Debug\BookManaging.pdb
+D:\BookManaging\BookManaging\obj\Debug\BookManaging.csprojResolveAssemblyReference.cache
+D:\BookManaging\BookManaging\obj\Debug\BookManaging.exe
+D:\BookManaging\BookManaging\obj\Debug\BookManaging.pdb
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\obj\Debug\BookManaging.csprojAssemblyReference.cache
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\obj\Debug\BookManaging.csproj.CoreCompileInputs.cache
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\obj\Debug\BookManaging.exe
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\obj\Debug\BookManaging.pdb
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\bin\Debug\BookManaging.exe.config
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\bin\Debug\BookManaging.exe
+G:\Mr.Chen\DocNet\BookManaging\BookManaging\bin\Debug\BookManaging.pdb

@@ -1,0 +1,26 @@
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\bin\Debug\Bài tập buổi 3.exe.config
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\bin\Debug\Bài tập buổi 3.exe
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\bin\Debug\Bài tập buổi 3.pdb
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBaiTapBuoi3.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBuoi3_bai1.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.exe
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.pdb
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBuoi3_bai2.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBuoi3_bai3.resources
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\bin\Debug\Bài tập buổi 3.exe.config
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\bin\Debug\Bài tập buổi 3.exe
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\bin\Debug\Bài tập buổi 3.pdb
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.csprojAssemblyReference.cache
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBaiTapBuoi3.resources
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBuoi3_bai1.resources
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBuoi3_bai2.resources
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.frmBuoi3_bai3.resources
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài_tập_buổi_3.Properties.Resources.resources
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.csproj.GenerateResource.cache
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.csproj.CoreCompileInputs.cache
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.exe
+G:\Mr.Chen\DocNet\BaiTapBuoi3\Bài tập buổi 3\obj\Debug\Bài tập buổi 3.pdb

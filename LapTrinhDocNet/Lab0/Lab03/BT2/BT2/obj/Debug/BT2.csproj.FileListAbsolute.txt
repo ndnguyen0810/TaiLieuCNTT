@@ -1,0 +1,8 @@
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\bin\Debug\BT2.exe.config
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\obj\Debug\BT2.Form1.resources
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\obj\Debug\BT2.Properties.Resources.resources
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.Cache
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\bin\Debug\BT2.exe
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\bin\Debug\BT2.pdb
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\obj\Debug\BT2.exe
+D:\NguyenDinhNguyen_Lab03\BT2\BT2\obj\Debug\BT2.pdb

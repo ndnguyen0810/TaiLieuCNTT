@@ -1,0 +1,12 @@
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\bin\Debug\BT1.exe.config
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\bin\Debug\BT1.exe
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\bin\Debug\BT1.pdb
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.csprojResolveAssemblyReference.cache
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.Form1.resources
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.Properties.Resources.resources
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.csproj.GenerateResource.Cache
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.exe
+D:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.pdb
+E:\NguyenDinhNguyen_Lab03\BT1\BT1\bin\Debug\BT1.exe.config
+E:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.exe
+E:\NguyenDinhNguyen_Lab03\BT1\BT1\obj\Debug\BT1.pdb

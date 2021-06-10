@@ -1,0 +1,15 @@
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\bin\Debug\Lab06.exe.config
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\bin\Debug\Lab06.exe
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\bin\Debug\Lab06.pdb
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.csprojAssemblyReference.cache
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.Form1.resources
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.exe
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.pdb
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\bin\Debug\Interop.WMPLib.dll
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\bin\Debug\AxInterop.WMPLib.dll
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Interop.WMPLib.dll
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\AxInterop.WMPLib.dll
+G:\Mr.Chen\DocNet\BT Các Buổi\Lab06\Lab06\obj\Debug\Lab06.csproj.ResolveComReference.cache

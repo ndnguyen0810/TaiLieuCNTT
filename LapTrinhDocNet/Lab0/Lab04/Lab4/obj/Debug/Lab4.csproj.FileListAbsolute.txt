@@ -1,0 +1,11 @@
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\bin\Debug\Lab4.exe.config
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\bin\Debug\Lab4.exe
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\bin\Debug\Lab4.pdb
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.exe
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.pdb
+G:\Mr.Chen\DocNet\Filr bài tập\Lab4\Lab4\obj\Debug\Lab4.frmTuyChon.resources

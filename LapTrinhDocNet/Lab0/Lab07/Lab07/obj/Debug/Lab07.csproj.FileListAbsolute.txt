@@ -1,0 +1,15 @@
+G:\Mr.Chen\Lab07\Lab07\bin\Debug\Lab07.exe.config
+G:\Mr.Chen\Lab07\Lab07\bin\Debug\Lab07.exe
+G:\Mr.Chen\Lab07\Lab07\bin\Debug\Lab07.pdb
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.csprojAssemblyReference.cache
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.cache
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.exe
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.pdb
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.frmMain.resources
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.frmKetQua.resources
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.frmKhoa.resources
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.frmMonHoc.resources
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.frSinhVien.resources
+G:\Mr.Chen\Lab07\Lab07\obj\Debug\Lab07.frmXemDiem.resources
