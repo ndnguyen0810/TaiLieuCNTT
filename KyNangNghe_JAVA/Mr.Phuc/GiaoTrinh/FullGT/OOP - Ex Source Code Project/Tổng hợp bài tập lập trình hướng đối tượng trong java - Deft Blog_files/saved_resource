@@ -1,0 +1,90 @@
+/* Enter Your Custom CSS Here */
+body.page .entry-content a,
+body.single-post .entry-content a {
+color: #32a853;
+}
+
+body.page .entry-content a:hover,
+body.single-post .entry-content a:hover {
+	color: #0ceb52;
+  text-decoration: underline;
+}
+
+#sidebar-custom >.textwidget > p > a:hover {
+	background-color: #f0f2f0 !important;
+	text-decoration: underline !important;
+}
+
+#sidebar-custom >.textwidget > p > a {
+	font-size: 20px;
+	text-align: left;
+	display: block;
+}
+
+#sidebar-custom {
+	max-height: 100%;
+	min-height: 100%;
+	overflow: auto;
+}
+
+/* === Style WP-PageNavi Pagination === */
+
+/* Center the pagination */
+.wp-pagenavi { 
+		display: block;
+		margin: 15px auto;
+		text-align:center; }
+
+/* Add a border */
+.wp-pagenavi span, .wp-pagenavi a, .wp-pagenavi :last-child { 
+    border: 1px solid #bbb !important; 
+    padding: 6px 12px; 
+    margin: 0;  
+}
+.wp-pagenavi span, .wp-pagenavi a { border-right: none !important; }
+
+/* Style the default text */
+.wp-pagenavi span, .wp-pagenavi a { 
+    font-weight: bold !important; 
+    color: #999 !important
+}
+
+/* Style the current / hovered page link */
+.wp-pagenavi span.current,
+.wp-pagenavi a:hover { 
+    color: #7ad03a !important; 
+    background-color: #ddd !important; 
+}
+
+#secondary {
+	overflow:scroll;
+	max-height: 100%;
+}
+
+/* Style the page count text */
+.wp-pagenavi :first-child { color: #666 !important; }
+
+/* Add text to the "next" link */
+.wp-pagenavi .nextpostslink:before { content: 'Next '; }
+.wp-pagenavi .previouspostslink:after { content: ' Prev'; }
+
+.recent-post a:hover {
+		color: #7ad03a !important;
+}
+.site-info { display: none; }
+
+footer .top-footer {
+	background: none;
+}
+
+.top-footer .textwidget p {
+	color: white;		
+}
+
+.single .content-area .entry-content a{
+		box-shadow: none !important;
+}
+
+.toc_widget_list.no_bullets li {
+		font-size: 1.2em
+}
